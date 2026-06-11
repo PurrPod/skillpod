@@ -1,0 +1,10 @@
+{
+  "web-scraper": {
+    "name": "Web Scraper",
+    "description": "强大的网页抓取与解析技能。",
+    "author": "Alice",
+    "type": "community",
+    "tags": ["web", "tools"],
+    "source_url": "https://github.com/Alice/my-purr-skills/tree/main/web-scraper"
+  }
+}
